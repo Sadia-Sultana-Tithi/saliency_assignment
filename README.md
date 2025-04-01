@@ -1,18 +1,20 @@
 ##  Installation (GazeGAN Model)
-
 **Prerequisites**:
    - Python 3.8+
    - PyTorch 1.8+
    - CUDA (optional for GPU acceleration)
-
-1. **Install dependencies**:
+To set up the project:
+```bash
+git clone https://github.com/Sadia-Sultana-Tithi/saliency_assignment
+```
+**Install dependencies**:
 ```bash
    pip install torch torchvision numpy opencv-python scipy tqdm 
 ```
-3. **Training the Model**:
+**Training the Model**:
 ```bash
    python train.py
 ```
-3. **Evaluating the Model**:
+**Evaluating the Model**:
 ```bash
     python evaluate.py
