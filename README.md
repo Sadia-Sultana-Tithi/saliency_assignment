@@ -3,7 +3,7 @@
    - Python 3.8+
    - PyTorch 1.8+
    - CUDA (optional for GPU acceleration)
-To set up the project:
+**To set up the project**:
 ```bash
 git clone https://github.com/Sadia-Sultana-Tithi/saliency_assignment
 ```
